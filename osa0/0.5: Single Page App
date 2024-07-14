@@ -1,5 +1,11 @@
 Single
 
 ```mermaid
+sequenceDiagram
+
+  participant browser
+  partisipant server
+
+  browser->>server: hi
 
 ```
