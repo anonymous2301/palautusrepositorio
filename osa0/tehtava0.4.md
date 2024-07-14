@@ -1,3 +1,9 @@
-pie title NETFLIX
-         "Time spent looking for movie" : 90
-         "Time spent watching it" : 10
+Here is a simple flow chart:
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
