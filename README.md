@@ -1,2 +1,2 @@
 # palautusrepositorio
-Fullsrack verkkokurssi
+Fullstack verkkokurssi
