@@ -1,2 +1,2 @@
 # palautusrepositorio
-Fullstack verkkokurssi
+Full Stack verkkokurssi
